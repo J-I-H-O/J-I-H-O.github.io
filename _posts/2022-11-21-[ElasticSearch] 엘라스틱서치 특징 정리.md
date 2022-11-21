@@ -1,7 +1,7 @@
+<p><img src="https://velog.velcdn.com/images/sjh9391985/post/6d455887-f18f-4ff7-ac52-598d4f079239/elasticsearch.png"></p>
+
 ## 1. EleaticSearch란?
 Apache Lucene 기반의 Java 오픈소스 분산 검색엔진.
-
-<br>
 
 ## 2. ElasticSearch의 특징
 
@@ -38,7 +38,7 @@ Apache Lucene 기반의 Java 오픈소스 분산 검색엔진.
 > 
 > `Inverted Index` : 어떤 Term들이 어떤 Document에서 나타나는지 Term이 등장한 Document id를 나타냄.
 
-> <p align="center"><img src="https://i.stack.imgur.com/iGri3.png"> 
+> <p><img src="https://i.stack.imgur.com/iGri3.png"> 
 > Inverted Index 예시</p>
 
 ### 통계 분석
