@@ -1,3 +1,9 @@
+---
+title: [ElasticSearch] 기본 특징 정리
+categories: [ElasticSearch]
+---
+
+
 <p><img src="https://velog.velcdn.com/images/sjh9391985/post/6d455887-f18f-4ff7-ac52-598d4f079239/elasticsearch.png"></p>
 
 ## 1. EleaticSearch란?
@@ -56,3 +62,10 @@ https://velog.io/@jakeseo_me/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9
 
 https://jaemunbro.medium.com/elastic-search-%EA%B8%B0%EC%B4%88-%EC%8A%A4%ED%84%B0%EB%94%94-ff01870094f0
 
+<script src="https://utteranc.es/client.js"
+        repo="J-I-H-O/J-I-H-O.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
