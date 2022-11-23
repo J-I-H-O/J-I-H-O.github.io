@@ -2,7 +2,6 @@
 categories: [ElasticSearch]
 ---
 
-
 <p><img src="https://velog.velcdn.com/images/sjh9391985/post/6d455887-f18f-4ff7-ac52-598d4f079239/elasticsearch.png"></p>
 
 ## 1. EleaticSearch란?
@@ -56,6 +55,9 @@ Apache Lucene 기반의 Java 오픈소스 분산 검색엔진.
 - UPDATE 명령시 데이터를 삭제했다가 새로운 문서를 생성함. 많은 비용을 소모하지만, 이를 통해 불변성(Immutable)을 제공함.
 
 <br>
+<hr/>
+<br>
+
 ## Reference
 https://velog.io/@jakeseo_me/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-2-DB%EB%A7%8C-%EC%9E%88%EC%9C%BC%EB%A9%B4-%EB%90%98%EB%8A%94%EB%8D%B0-%EC%99%9C-%EA%B5%B3%EC%9D%B4-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84
 
